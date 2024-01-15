@@ -9,7 +9,7 @@ The goal is to construct a model that accurately predicts whether an individual 
 
 The dataset for this project originates from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Census+Income).
 
-View the code in the [jupyter notebook](link tbd)
+View the code in the [Jupyter Notebook](https://github.com/mandi1120/ml_finding_donors/blob/main/finding_donors.ipynb).
 
 ## 
 
