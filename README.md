@@ -1,4 +1,4 @@
-# WGU Udacity Data Analyst Nanodegree <br>Finding Donors  
+# WGU Udacity Data Analyst Nanodegree <br>Machine Learning for Finding Donors  
 ### By: Amanda Hanway, 12/23/2023 
 
 ## Introduction
